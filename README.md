@@ -2,6 +2,18 @@
 
 A simple and functional smart contract implementation for the Soroban platform that demonstrates the "timelock" concept and provides a streamlined "Claimable Balance" mechanism.
 
+### Contract
+ℹ️  Skipping install because wasm already installed
+ℹ️  Using wasm hash ea259882219c262bd32656f94671d05be4734b7ac8a875fdef05bfdc87566418
+ℹ️  Simulating deploy transaction…
+ℹ️  Transaction hash is b4e49a7151b37bb53d30ff0404a9e8183881135006197ddbc5618f9c7a4766c5
+🔗 https://stellar.expert/explorer/testnet/tx/b4e49a7151b37bb53d30ff0404a9e8183881135006197ddbc5618f9c7a4766c5
+ℹ️  Signing transaction: b4e49a7151b37bb53d30ff0404a9e8183881135006197ddbc5618f9c7a4766c5
+🌎 Submitting deploy transaction…
+🔗 https://stellar.expert/explorer/testnet/contract/CASPLM37TLBEKY7EEJ7CIAWCNYLGHF4P2DNCTIHYJNJD6SFPMILW4AXJ
+✅ Deployed!
+CASPLM37TLBEKY7EEJ7CIAWCNYLGHF4P2DNCTIHYJNJD6SFPMILW4AXJ
+
 ## Overview
 
 This contract allows users to deposit a specified amount of tokens and enables other accounts to claim them either before or after a specific time point. The contract implements a basic timelock mechanism while maintaining a clean and efficient design.
